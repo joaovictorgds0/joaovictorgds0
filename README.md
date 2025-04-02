@@ -1,5 +1,16 @@
 ### Olá! Eu sou o João Victor Gomes 🖐️
 
+📍 Recife, Brasil
+
+📚 Graduando em Engenharia da computação
+
+🌱 Aprimorando minhas habilidades em Java, JavaScript, desenvolvimento de aplicações web, fundamentos de redes e segurança de sistema
+
+👨‍💻 Todos os meus projetos estão disponíveis no GitHub <a href="https://github.com/joaovictorgds0?tab=repositories&q=&type=public&language=&sort=" target="_blank" > joaovictorgds0 </a>
+
+
+
+
 <div>
 <a href="https://instagram.com/joaovictorgds0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:joaovictor.gomds@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
