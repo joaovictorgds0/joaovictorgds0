@@ -2,7 +2,7 @@
 
 📍 Recife, Brasil
 
-📚 Graduando em Engenharia da computação
+📚 Graduando em Engenharia da Software
 
 🌱 Aprimorando minhas habilidades em Java, JavaScript, desenvolvimento de aplicações web, fundamentos de redes e segurança de sistema
 
