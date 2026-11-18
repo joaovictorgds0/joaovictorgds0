@@ -2,9 +2,11 @@
 
 📍 Recife, Brasil
 
-📚 Graduando em Engenharia da Software
+📚 Graduando em Ciência de Dados e Inteligência Artificial
 
-🌱 Aprimorando minhas habilidades em Java, JavaScript, desenvolvimento de aplicações web, fundamentos de redes e segurança de sistema
+📊 Python, SQL, R, Pandas, Jupyter, Power BI e Excel
+
+🌱 Aprimorando minhas habilidades em estatística, visualização de dados, machine learning, banco de dados e ETL
 
 👨‍💻 Todos os meus projetos estão disponíveis no GitHub <a href="https://github.com/joaovictorgds0?tab=repositories&q=&type=public&language=&sort=" target="_blank" > joaovictorgds0 </a>
 
